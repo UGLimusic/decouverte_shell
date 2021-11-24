@@ -1,5 +1,6 @@
 *Ce travail reprend celui effectué par [Martin Quinson](https://github.com/mquinson/shutorial)*
 
+**On utilise le site CoCalc , mais celui-ci peut varier. À défaut, on devra trouver un site qui permet d'utiliser des machines virtuelles tournant sous linux.**
 
 # Comment procéder ?
 
